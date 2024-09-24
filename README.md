@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harvey</h1>
-<h3 align="center">A passionate Developer and Cyber Security enthusiastic from Australia</h3>
+<h3 align="center">A OSCP certificated, Cyber Security enthusiastic from Australia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=phulelouch&label=Profile%20views&color=0e75b6&style=flat" alt="phulelouch" /> </p>
 
