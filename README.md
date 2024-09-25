@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=phulelouch" alt="phulelouch" /></a> </p>
 
-- 🔭 I’m currently working on [an mobile and web application to learn financial literacy](https://github.com/phulelouch/LemonStandPlayground)
+- 🔭 CTF Write up at: [ctf.phulelouch.site](https://ctf.phulelouch.site/)
 
 - 🌱 I’m currently learning **to improve my skills**
 
