@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harvey</h1>
 <h3 align="center">A OSCP certificated, Cyber Security enthusiastic from Australia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=phulelouch&label=Profile%20views&color=0e75b6&style=flat" alt="phulelouch" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=phulelouch" alt="phulelouch" /></a> </p>
-
 - 🔭 CTF Write up at: [ctf.phulelouch.site](https://ctf.phulelouch.site/)
 
 - 🌱 I’m currently learning **to improve my skills**
