@@ -11,8 +11,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/phulelouch](https://github.com/phulelouch)
 
-- 📝 I regularly write articles on [https://www.facebook.com/profile.php?id=100063602197620](https://www.facebook.com/profile.php?id=100063602197620)
-
 - 📫 How to reach me **harveyspec2807@gmail.com**
 
 - ⚡ Fun fact **I am a gym rat, a really good one**
