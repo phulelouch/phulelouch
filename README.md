@@ -15,6 +15,8 @@
 
 - ⚡ Fun fact **I am a gym rat, a really good one**
 
+- Yes, I watch anime
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
